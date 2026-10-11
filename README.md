@@ -1,5 +1,7 @@
 # Open Source Micropolis, based on the original SimCity Classic from Maxis, by Will Wright. #
 
+# At the moment, there is nothing functional here.
+
 This is the source code for Micropolis (based on [SimCity](http://en.wikipedia.org/wiki/SimCity_(1989_video_game))), released under the GPL. Micropolis is based on the original SimCity from Electronic Arts / Maxis, and designed and written by Will Wright.
 
 # NOTE: Please See: [MicropolisCore](https://github.com/SimHacker/MicropolisCore)
